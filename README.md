@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 
 ### Test Screenshot
-([L.1pic1(/Images/Test.png
+([L.1pic1(/Images/Test.png])
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
