@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Aaron's Music B30 Project
 
 You can use the [editor on GitHub](https://github.com/aar0n100000/aar0n100000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
