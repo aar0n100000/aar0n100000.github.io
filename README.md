@@ -1,4 +1,4 @@
-## Welcome to Aaron's Music B30 Project
+# Welcome to Aaron's Music B30 Project
 
 
 ### Markdown
@@ -11,7 +11,7 @@
 - [ ] Demonstrate one tip for class.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Test Screenshot
+
 
 
 
