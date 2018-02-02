@@ -1,7 +1,7 @@
 # Welcome to Aaron's Music B30 Project
-Get Dancing Mix
 
-##
+##### Get Dancing Mix
+
 ![overview](Images/Screenshot2.png)
 
 
