@@ -5,7 +5,13 @@ You can use the [editor on GitHub](https://github.com/aar0n100000/aar0n100000.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+- [x] Create and upload five (5) screenshots.
+- [ ] Bounce Logic project and upload to audio folder.
+- [x] Write at least 250 words on your experience with the lesson.
+- [ ] Audio plays back through external speakers.
+- [x] Screenshots render correctly.
+- [x] Text is legible.
+- [ ] Demonstrate one tip for class.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### Test Screenshot
