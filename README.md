@@ -1,4 +1,8 @@
 # Welcome to Aaron's Music B30 Project
+Get Dancing Mix
+![L.1pic1](/Images/Test.png)
+
+
 
 
 ### Markdown
@@ -10,10 +14,6 @@
 - [ ] Text is legible.
 - [ ] Demonstrate one tip for class.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
-
 
 
 
