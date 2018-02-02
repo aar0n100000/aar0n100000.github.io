@@ -2,7 +2,7 @@
 Get Dancing Mix
 
 ##
-![overview](Images/Screenshot 2.png)
+![overview](Images/Screenshot2.png)
 
 
 
