@@ -1,5 +1,4 @@
 # Welcome to Aaron's Music B30 Project
-
 ##### Get Dancing Mix
 ![overview](Images/Screenshot2.png)
 The first lesson requires a one minute hip-hop instrumental and you do that by using loops in the loop browser, it was sort of hard to get used to logic at first but i'm getting the hang of it slowly. So in total 6 different loops were used for making this project which is not my usual go-to because when i usually make music on ableton i just use vst's, i rarely use melody samples except for single drum samples that i can program into a drum rudiment.
@@ -18,19 +17,17 @@ A space designer plug-in was added to the bridge piano which is called "Skyline 
 
 ![overview](Images/Screenshot5.png)
 
-Then finally a "Bass Amp Designer" plug-in was added to the "Skyline Bass" sample which gave the bass a louder sound and a little bit of distortion might have been added from what it seems.
-
-
+Then finally a "Bass Amp Designer" plug-in was added to the "Skyline Bass" sample which gave the bass a louder sound and a little bit of distortion might have been added from what it seems. That basically sums up this whole project, the file should be on this page somewhere to be used for listening purposes. One tip i do have for the class would be to always save your project because you never know when your pc might shut down or logic might crash, and if that wasn't relevant I also think loops shouldn't be used as much because it's not really that creative but then again maybe its just for this lesson. 
 
 ### Markdown
-- [ ] Create and upload five (5) screenshots.
+- [x] Create and upload five (5) screenshots.
 - [x] Bounce Logic project and upload to audio folder.
-- [ ] Write at least 250 words on your experience with the lesson.
-- [ ] Audio plays back through external speakers.
-- [ ] Screenshots render correctly.
-- [ ] Text is legible.
-- [ ] Demonstrate one tip for class.
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [x] Write at least 250 words on your experience with the lesson.
+- [x] Audio plays back through external speakers.
+- [x] Screenshots render correctly.
+- [x] Text is legible.
+- [x] Demonstrate one tip for class.
+
 
 
 
