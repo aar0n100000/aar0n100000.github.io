@@ -19,6 +19,7 @@ A space designer plug-in was added to the bridge piano which is called "Skyline 
 
 Then finally a "Bass Amp Designer" plug-in was added to the "Skyline Bass" sample which gave the bass a louder sound and a little bit of distortion might have been added from what it seems. That basically sums up this whole project, the file should be on this page somewhere to be used for listening purposes. One tip i do have for the class would be to always save your project because you never know when your pc might shut down or logic might crash, and if that wasn't relevant I also think loops shouldn't be used as much because it's not really that creative but then again maybe its just for this lesson. 
 
+Get Dancing Mix.mp3
 ### Markdown
 - [x] Create and upload five (5) screenshots.
 - [x] Bounce Logic project and upload to audio folder.
