@@ -32,7 +32,7 @@ I then added this wave sample so every drop had a build up to it, at the end of 
 
  A tip really useful to me is changing the colors on files because you never forget which one is which and it keeps everything organized and colorful. You can do this by pressing (Option + C) and will change the color on one singular file but if you press (Shift + Option + C) it will change colors on however many files you clicked while holding shift. 
 
-
+[Get Dancing](/Audio/GetDancingMix2.mp3)
 
 
 
