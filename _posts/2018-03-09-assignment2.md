@@ -1,6 +1,11 @@
 # Recording & Editing Audio
 ##### Get Dancing Mix
 
+![overview](Images/x1.png)
+![overview](Images/x2.png)
+![overview](Images/x3.png)
+![overview](Images/x4.png)
+![overview](Images/x5.png)
 
 
 
