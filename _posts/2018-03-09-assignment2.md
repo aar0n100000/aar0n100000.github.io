@@ -9,7 +9,7 @@ So for the next two lessons (2-3) I went back to the same "Get Dancing" project 
 ##### "Classic ELectric Piano"
 ![overview](/Images/x2.png)
 
-I took a different path on the audio recording segment, instead of recording actual audio with a microphone, i programmed a set of notes on a Logic software instrument. I used the "Classic Electric Piano" preset for this, and it is around 4 bars long, I substituted it for the guitar that you were initially supposed to use. I also added a total of 3 plug-ins, only of them being time-based which is a reverb plug-in.
+I took a different path on the audio recording segment, instead of recording actual audio with a microphone, i programmed a set of notes on a Logic software instrument. I used the "Classic Electric Piano" preset for this, and it is around 4 bars long, I substituted it for the guitar that you were initially supposed to use. I also added a total of 3 plug-ins, only one of them being time-based which is a reverb plug-in.
 
 
 
