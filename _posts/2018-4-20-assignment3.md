@@ -1,4 +1,9 @@
 # MIDI
+Both lessons 5 and 6 are about working with MIDI mainly.
+
+
+
+
 ![overview](/Images/z1.png)
 ![overview](/Images/z2.png)
 ![overview](/Images/z6.png)
