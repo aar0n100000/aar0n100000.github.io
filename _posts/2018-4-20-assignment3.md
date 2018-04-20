@@ -13,7 +13,8 @@ Both lessons 5 and 6 are about working with MIDI mainly.
 ![overview](/Images/z4.png)
 #####
 ![overview](/Images/z5.png)
-
+#####
+![overview](/Images/z7.png)
 
 
 
