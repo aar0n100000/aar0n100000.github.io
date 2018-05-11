@@ -21,14 +21,7 @@ On the next lesson you had to make a drum pattern by changing the midi notes and
 
 ##### Stinger Bass
 ![overview](/Images/z5.png)
-Another Patch was used and it's called "Stinger Bass" it basically resembles the sound of an electric bass guitar. THe same length as the drums, the loop was 8 bars long as well. this bass line has some groove to and it really goes together with the melody of this project which is another patch with some editing to where the pitch bends significantly. thats pretty much it for both of the lessons, they were mainly about MIDI.
-
-
-
-
-
-
-
+Another Patch was used and it's called "Stinger Bass" it basically resembles the sound of an electric bass guitar. THe same length as the drums, the loop was 8 bars long as well. this bass line has some groove to and it really goes together with the melody of this project which is another patch with some editing to where the pitch bends significantly. thats pretty much it for both of the lessons, they were mainly about MIDI. A tip I do have for duplicating MIDI note patterns, you can simply highlight the notes you want to duplicate and press (Command + R), it will be be duplicated automatically the next consecutive beat.
 
 
 
