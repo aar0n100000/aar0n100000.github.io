@@ -10,8 +10,10 @@ Both lessons 5 and 6 are about working with MIDI mainly. both projects weren't t
 First it asked for a 'Retro Synth' patch and I edited it a little bit, I added some pitch bend and lowered some of the attack so it would sound more like a pad. This was a majority of the song until I made a bridge for a small section of the song.
 
 
-##### Programmung Drums
+##### Arpeggiator
 ![overview](/Images/z2.png)
+For the little section i was talking about I duplicated the track that the retro synth was in but except in this one i added an arpeggiator plugin and it made a note play every 1/8th of a bar. After this section it went back to the regular mode without an arpeggiator.
+
 #####
 ![overview](/Images/z6.png)
 #####
