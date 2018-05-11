@@ -1,6 +1,9 @@
 # MIDI
 Both lessons 5 and 6 are about working with MIDI mainly.
 
+##### Overview
+![overview](/Images/z7.png)
+
 ##### Retro Synth
 ![overview](/Images/z1.png)
 Fist it asked for a 'Retro Synth' patch  
@@ -14,8 +17,7 @@ Fist it asked for a 'Retro Synth' patch
 ![overview](/Images/z4.png)
 #####
 ![overview](/Images/z5.png)
-#####
-![overview](/Images/z7.png)
+
 
 
 
