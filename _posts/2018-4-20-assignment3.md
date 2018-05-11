@@ -15,13 +15,13 @@ First it asked for a 'Retro Synth' patch and I edited it a little bit, I added s
 For the little section i was talking about I duplicated the track that the retro synth was in but except in this one i added an arpeggiator plugin and it made a note play every 1/8th of a bar. After this section it went back to the original way without an arpeggiator.
 
 ##### Drummer
+![overview](/Images/z4.png)
 ![overview](/Images/z6.png)
 On the next lesson you had to make a drum pattern by changing the midi notes and had to make a simple drum pattern that loops every 8 bars. one of the drum pattern sounds a little syncopated but I think it was intentional.
-#####
-![overview](/Images/z4.png)
-#####
-![overview](/Images/z5.png)
 
+##### Stinger Bass
+![overview](/Images/z5.png)
+Another Patch was used and it's called "Stinger Bass" it basically resembles the sound of an electric bass guitar. THe same length as the drums, the loop was 8 bars long as well. this bass line has some groove to and it really goes together with the melody of this project which is another patch with some editing to where the pitch bends significantly. thats pretty much it for both of the lessons, they were mainly about MIDI.
 
 
 
