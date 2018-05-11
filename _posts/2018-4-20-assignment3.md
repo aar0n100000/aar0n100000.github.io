@@ -12,10 +12,11 @@ First it asked for a 'Retro Synth' patch and I edited it a little bit, I added s
 
 ##### Arpeggiator
 ![overview](/Images/z2.png)
-For the little section i was talking about I duplicated the track that the retro synth was in but except in this one i added an arpeggiator plugin and it made a note play every 1/8th of a bar. After this section it went back to the regular mode without an arpeggiator.
+For the little section i was talking about I duplicated the track that the retro synth was in but except in this one i added an arpeggiator plugin and it made a note play every 1/8th of a bar. After this section it went back to the original way without an arpeggiator.
 
-#####
+##### Drummer
 ![overview](/Images/z6.png)
+On the next lesson you had to make a drum pattern by changing the midi notes and had to make a simple drum pattern that loops every 8 bars. one of the drum pattern sounds a little syncopated but I think it was intentional.
 #####
 ![overview](/Images/z4.png)
 #####
