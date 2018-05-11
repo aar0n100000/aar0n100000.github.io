@@ -7,10 +7,10 @@ Both lessons 5 and 6 are about working with MIDI mainly. both projects weren't t
 
 ##### Retro Synth
 ![overview](/Images/z1.png)
-Fist it asked for a 'Retro Synth' patch and I edited it a little bit, I added some pitch bend and lowered some of the attack so it would sound more like a pad. This was a majority of the song until I made a bridge for a small section of the song.
+First it asked for a 'Retro Synth' patch and I edited it a little bit, I added some pitch bend and lowered some of the attack so it would sound more like a pad. This was a majority of the song until I made a bridge for a small section of the song.
 
 
-#####
+##### Programmung Drums
 ![overview](/Images/z2.png)
 #####
 ![overview](/Images/z6.png)
