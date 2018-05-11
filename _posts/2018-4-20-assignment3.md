@@ -1,12 +1,13 @@
 # MIDI
-Both lessons 5 and 6 are about working with MIDI mainly.
 
 ##### Overview
 ![overview](/Images/z7.png)
+Both lessons 5 and 6 are about working with MIDI mainly. both projects weren't too complicated each one consisted of about 3 different patches if i'm not mistaken.
+
 
 ##### Retro Synth
 ![overview](/Images/z1.png)
-Fist it asked for a 'Retro Synth' patch  
+Fist it asked for a 'Retro Synth' patch   
 
 
 #####
